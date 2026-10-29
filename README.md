@@ -12,6 +12,10 @@ Projecte de treball amb Git i GitHub.
 
 ### Fase 1
 
+- Biel: s'ha definit el primer contracte de dades.
+- El CSV utilitza les columnes Host, IP, Amenaca i Nivell.
+- S'ha publicat el dataset inicial a projecte/spectral-data.
+
 ### Fase 2
 
 ### Fase 3
