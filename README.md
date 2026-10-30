@@ -12,6 +12,10 @@ Projecte de treball amb Git i GitHub.
 
 ### Fase 1
 
+- Anthony: s'ha investigat la branca remota projecte/spectral-data.
+- S'ha identificat el contracte inicial del CSV.
+- L'script processa les amenaces classificades com a critiques.
+
 ### Fase 2
 
 ### Fase 3
